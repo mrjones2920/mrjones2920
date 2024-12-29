@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1>Hi, I'm mike! <br/><a href="https://github.com/mrjones2920">Programmer</a>, <a href="https://www.linkedin.com/in/micheal-jones2920/">Cybersecurity Professional</a>,
 
-<!--
-**mrjones2920/mrjones2920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Security Internal Audit Practice</b>
+  - [Praciting security audit(Botium Toys)](https://github.com/mrjones2920/botium-toys)
+- <b>Inspecting Network Traffic Practice </b>
+  - [cybersecurity incident report](https://github.com/mrjones2920/inspect-network-DNS-and-ICMP-traffic)
+- <b>Identify Network Attacks</b>
+  - [Wireshark](https://github.com/mrjones2920/Wireshark)
+- <b>OS Hardening Techniques</b>
+  - [Security Incident Report](https://github.com/mrjones2920/OS-hardening-techniques)
+- <b>Network Hardening Techniques</b>
+  - [Security Risk Assessment Report](https://github.com/mrjones2920/Network-Hardening-techniques)
+- <b>NIST Cybersecurity Framework</b>
+   - [Incident Report Analysis](https://github.com/mrjones2920/NIST-Cybersecurity-Framework)
+ 
+<h2> 🤳 Connect with me:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="micheal-jones2920 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: [https://www.linkedin.com/in/micheal-jones2920/]
