@@ -6,17 +6,11 @@
   - [Praciting security audit(Botium Toys)](https://github.com/mrjones2920/botium-toys)
 - <b>Inspecting Network Traffic Practice </b>
   - [cybersecurity incident report](https://github.com/mrjones2920/inspect-network-DNS-and-ICMP-traffic)
-- <b>Identify Network Attacks</b>
+- <b>Identify Network Attacks Practice </b>
   - [Wireshark](https://github.com/mrjones2920/Wireshark)
-- <b>OS Hardening Techniques</b>
+- <b>OS Hardening Techniques Practice </b>
   - [Security Incident Report](https://github.com/mrjones2920/OS-hardening-techniques)
-- <b>Network Hardening Techniques</b>
+- <b>Network Hardening Techniques Practice </b>
   - [Security Risk Assessment Report](https://github.com/mrjones2920/Network-Hardening-techniques)
-- <b>NIST Cybersecurity Framework</b>
+- <b>NIST Cybersecurity Framework Practice </b>
    - [Incident Report Analysis](https://github.com/mrjones2920/NIST-Cybersecurity-Framework)
- 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[linkedin]: https://www.linkedin.com/in/micheal-jones2920
