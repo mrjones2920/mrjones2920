@@ -14,6 +14,8 @@
   - [Security Risk Assessment Report](https://github.com/mrjones2920/Network-Hardening-techniques)
 - <b>NIST Cybersecurity Framework Practice </b>
    - [Incident Report Analysis](https://github.com/mrjones2920/NIST-Cybersecurity-Framework)
+- <b>Linux Distribution Practice</b>
+  - [Installing and Uninstalling Software](https://github.com/mrjones2920/Linux-distribution)
  
 <h2>📄Certifications</h2>
 
