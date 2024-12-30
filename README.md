@@ -17,7 +17,7 @@
 - <b>Linux Practice</b>
   - [Installing and Uninstalling Software](https://github.com/mrjones2920/Linux-distribution)
   - [Shell Input And Output Command](https://github.com/mrjones2920/Shell-Lab)
-  - [Find Files with Linux Command](
+  - [Find Files with Linux Command](https://github.com/mrjones2920/Files-with-Linux)
  
 <h2>📄Certifications</h2>
 
