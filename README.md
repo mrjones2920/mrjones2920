@@ -16,6 +16,8 @@
    - [Incident Report Analysis](https://github.com/mrjones2920/NIST-Cybersecurity-Framework)
 - <b>Linux Distribution Practice</b>
   - [Installing and Uninstalling Software](https://github.com/mrjones2920/Linux-distribution)
+- <b>Shell Lab Practice </b>
+  - [Input And Output Command](https://github.com/mrjones2920/Shell-Lab)
  
 <h2>📄Certifications</h2>
 
