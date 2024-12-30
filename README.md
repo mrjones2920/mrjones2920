@@ -14,10 +14,10 @@
   - [Security Risk Assessment Report](https://github.com/mrjones2920/Network-Hardening-techniques)
 - <b>NIST Cybersecurity Framework Practice </b>
    - [Incident Report Analysis](https://github.com/mrjones2920/NIST-Cybersecurity-Framework)
-- <b>Linux Distribution Practice</b>
+- <b>Linux Practice</b>
   - [Installing and Uninstalling Software](https://github.com/mrjones2920/Linux-distribution)
-- <b>Shell Lab Practice </b>
-  - [Input And Output Command](https://github.com/mrjones2920/Shell-Lab)
+  - [Shell Input And Output Command](https://github.com/mrjones2920/Shell-Lab)
+  - [Find Files with Linux Command](
  
 <h2>📄Certifications</h2>
 
