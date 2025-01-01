@@ -20,7 +20,7 @@
   - [Find Files with Linux practice](https://github.com/mrjones2920/Files-with-Linux)
   - [Filter with Grep practice](https://github.com/mrjones2920/Filter-with-Grep )
   - [Manage files practice](https://github.com/mrjones2920/Manage-Files)
-  - [Permission Commands Practice](https://github.com/mrjones2920/Permission-commands)
+  - [Manage Authorization Practice](https://github.com/mrjones2920/Manage-Authorization)
  
 <h2>📄Certifications</h2>
 
