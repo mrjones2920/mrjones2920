@@ -15,10 +15,11 @@
 - <b>NIST Cybersecurity Framework Practice </b>
    - [Incident Report Analysis](https://github.com/mrjones2920/NIST-Cybersecurity-Framework)
 - <b>Linux Practice</b>
-  - [Installing and Uninstalling Software](https://github.com/mrjones2920/Linux-distribution)
-  - [Shell Input And Output Command](https://github.com/mrjones2920/Shell-Lab)
-  - [Find Files with Linux Command](https://github.com/mrjones2920/Files-with-Linux)
-  - [Filter with Grep Command](https://github.com/mrjones2920/Filter-with-Grep )
+  - [Installing and Uninstalling Software practice](https://github.com/mrjones2920/Linux-distribution)
+  - [Shell Input And Output Command practice](https://github.com/mrjones2920/Shell-Lab)
+  - [Find Files with Linux practice](https://github.com/mrjones2920/Files-with-Linux)
+  - [Filter with Grep practice](https://github.com/mrjones2920/Filter-with-Grep )
+  - [Manage files practice](https://github.com/mrjones2920/Manage-Files)
  
 <h2>📄Certifications</h2>
 
