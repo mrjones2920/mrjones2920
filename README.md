@@ -24,3 +24,22 @@
 - [Foundations Of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/6MDLRH4HYTF7)
 - [Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/TD6UB39JWULX)
 - [Connect and Protect:Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/UTAV8MHSBDA1)
+
+<h2>Skills</h2>
+
+ - Cybersecurity
+ - Information Security (INFOSEC)
+ - Ethics In Cybersecurity
+ - NIST Cybersecurity Framework(CSF)
+ - Historical Attacks
+ - NIST Risk Management Framework(RMF)
+ - Security Audits
+ - Incident Response Playbooks
+ - Security Hardening
+ - Network Security
+ - Transmission Control Protocol/Internet Protocol(TCP/IP)
+ - Network Architecture
+ - Cloud Network
+   
+
+
