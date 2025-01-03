@@ -21,6 +21,7 @@
   - [Filter with Grep practice](https://github.com/mrjones2920/Filter-with-Grep )
   - [Manage files practice](https://github.com/mrjones2920/Manage-Files)
   - [Manage Authorization Practice](https://github.com/mrjones2920/Manage-Authorization)
+  - [File Permissions practice](https://github.com/mrjones2920/file-permissions-in-linux)
  
 <h2>📄Certifications</h2>
 
