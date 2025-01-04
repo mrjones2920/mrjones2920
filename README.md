@@ -26,7 +26,7 @@
   - [Help In The Command Line Practice](https://github.com/mrjones2920/Get-Help)
 
  - <b>SQL Practice</b>
-   - [Perform SQL Query practice](https://github.com/mrjones2920/SQL-Query)
+   - [Perform SQL Query practice](https://github.com/mrjones2920/Perfrom-SQL-Query)
  
 <h2>📄Certifications</h2>
 
