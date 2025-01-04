@@ -27,6 +27,7 @@
 
  - <b>SQL Practice</b>
    - [Perform SQL Query practice](https://github.com/mrjones2920/Perfrom-SQL-Query)
+   - [Filter SQL Query Practice](https://github.com/mrjones2920/filter-SQL-query)
  
 <h2>📄Certifications</h2>
 
