@@ -29,6 +29,7 @@
    - [Perform SQL Query practice](https://github.com/mrjones2920/Perfrom-SQL-Query)
    - [Filter SQL Query Practice](https://github.com/mrjones2920/filter-SQL-query)
    - [Filter Dates And Numbers SQL Query practice](https://github.com/mrjones2920/More-Filter-SQL-Query)
+   - [Filter AND,OR and NOT SQL Query Practice](https://github.com/mrjones2920/Filters-with-AND-OR-and-NOT)
      
  
 <h2>📄Certifications</h2>
