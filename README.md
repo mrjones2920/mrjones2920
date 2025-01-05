@@ -31,6 +31,7 @@
    - [Filter Dates And Numbers SQL Query practice](https://github.com/mrjones2920/More-Filter-SQL-Query)
    - [Filter AND,OR and NOT SQL Query Practice](https://github.com/mrjones2920/Filters-with-AND-OR-and-NOT)
    - [Apply Filter To SQL Query Practice](https://github.com/mrjones2920/Apply-Filter-To-SQL-Query)
+   - [Complete Join Practice](https://github.com/mrjones2920/Complete-A-Join)
      
  
 <h2>📄Certifications</h2>
@@ -38,6 +39,7 @@
 - [Foundations Of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/6MDLRH4HYTF7)
 - [Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/TD6UB39JWULX)
 - [Connect and Protect:Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/UTAV8MHSBDA1)
+- [Tools Of The Trade: Linux and SQL](https://www.coursera.org/account/accomplishments/verify/PS02NGBMLUUP)
 
 <h2>Skills</h2>
 
@@ -54,6 +56,10 @@
  - Transmission Control Protocol/Internet Protocol(TCP/IP)
  - Network Architecture
  - Cloud Network
+ - Command Line Interface(CLI)
+ - SQL
+ - Linux
+ - Bash
    
 
 
