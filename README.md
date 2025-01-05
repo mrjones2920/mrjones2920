@@ -30,6 +30,7 @@
    - [Filter SQL Query Practice](https://github.com/mrjones2920/filter-SQL-query)
    - [Filter Dates And Numbers SQL Query practice](https://github.com/mrjones2920/More-Filter-SQL-Query)
    - [Filter AND,OR and NOT SQL Query Practice](https://github.com/mrjones2920/Filters-with-AND-OR-and-NOT)
+   - [Apply Filter To SQL Query Practice](https://github.com/mrjones2920/Apply-Filter-To-SQL-Query)
      
  
 <h2>📄Certifications</h2>
