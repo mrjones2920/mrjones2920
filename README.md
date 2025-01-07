@@ -32,7 +32,9 @@
    - [Filter AND,OR and NOT SQL Query Practice](https://github.com/mrjones2920/Filters-with-AND-OR-and-NOT)
    - [Apply Filter To SQL Query Practice](https://github.com/mrjones2920/Apply-Filter-To-SQL-Query)
    - [Complete Join Practice](https://github.com/mrjones2920/Complete-A-Join)
-     
+  
+ - <b>Assets Practice</b>
+   - [Classify Assets Practice](https://github.com/mrjones2920/Classify-the-Assets)
  
 <h2>📄Certifications</h2>
 
