@@ -12,8 +12,9 @@
   - [Security Incident Report](https://github.com/mrjones2920/OS-hardening-techniques)
 - <b>Network Hardening Techniques Practice </b>
   - [Security Risk Assessment Report](https://github.com/mrjones2920/Network-Hardening-techniques)
-- <b>NIST Cybersecurity Framework Practice </b>
+- <b>NIST Cybersecurity Framework(CSF) Practice </b>
    - [Incident Report Analysis](https://github.com/mrjones2920/NIST-Cybersecurity-Framework)
+   - [Risk Register Assessment Practice](https://github.com/mrjones2920/NIST-CSF-)
 - <b>Linux Practice</b>
   - [Installing and Uninstalling Software practice](https://github.com/mrjones2920/Linux-distribution)
   - [Shell Input And Output Command practice](https://github.com/mrjones2920/Shell-Lab)
@@ -36,6 +37,15 @@
  - <b>Assets Practice</b>
    - [Classify Assets Practice](https://github.com/mrjones2920/Classify-the-Assets)
  
+
+<h2>Education</h2>
+  
+  - Google Cybersecurity Professional  , Coursera,10/2024
+  - Introduction to Computer Science And Programming Using Python ,MIT 12/2025
+  -  Introduction To C++ , MIT 1/2025
+
+
+
 <h2>📄Certifications</h2>
 
 - [Foundations Of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/6MDLRH4HYTF7)
