@@ -36,6 +36,7 @@
   
  - <b>Assets Practice</b>
    - [Classify Assets Practice](https://github.com/mrjones2920/Classify-the-Assets)
+   - [Data Assets Leak Assessment Practice](https://github.com/mrjones2920/Data-Risk)
  
 
 <h2>Education</h2>
