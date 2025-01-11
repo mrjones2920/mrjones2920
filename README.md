@@ -25,6 +25,7 @@
   - [File Permissions practice](https://github.com/mrjones2920/file-permissions-in-linux)
   - [Add and Manage user practice](https://github.com/mrjones2920/Add-and-Manage-user)
   - [Help In The Command Line Practice](https://github.com/mrjones2920/Get-Help)
+  - [Decrypting An Encrypted](https://github.com/mrjones2920/Decrypting)
 
  - <b>SQL Practice</b>
    - [Perform SQL Query practice](https://github.com/mrjones2920/Perfrom-SQL-Query)
