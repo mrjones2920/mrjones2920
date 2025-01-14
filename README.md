@@ -40,6 +40,7 @@
    - [Classify Assets Practice](https://github.com/mrjones2920/Classify-the-Assets)
    - [Data Assets Leak Assessment Practice](https://github.com/mrjones2920/Data-Risk)
    - [Create Hash Values Practice](https://github.com/mrjones2920/Hash-values)
+   - [AAA Framework practice](https://github.com/mrjones2920/AAA-Framework)
  
 
 <h2>Education</h2>
