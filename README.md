@@ -61,6 +61,7 @@
 - [Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/TD6UB39JWULX)
 - [Connect and Protect:Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/UTAV8MHSBDA1)
 - [Tools Of The Trade: Linux and SQL](https://www.coursera.org/account/accomplishments/verify/PS02NGBMLUUP)
+- [Assets,Threats,And Vulnerabilities](https://www.coursera.org/account/accomplishments/certificate/3I4BLVVHYEAL)
 
 <h2>Skills</h2>
 
@@ -80,6 +81,11 @@
  - Command Line Interface(CLI)
  - SQL
  - Linux
- - Bash
+ - Bash shell
+ - Authentication
+ - Vulnerability Assessment
+ - Cryptography
+ - Asset Classification
+ - Threat Analysis
 
 
