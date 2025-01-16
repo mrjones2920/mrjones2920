@@ -44,6 +44,7 @@
    - [Vulnerability Assessment Report Practice](https://github.com/mrjones2920/vulnerable-system)
    - [Identifiy Attack Vectors Threat Practice](https://github.com/mrjones2920/Attack-vectors)
    - [Filter Malicious Emails Threat Practice](https://github.com/mrjones2920/Malicious-emails)
+   - [ PASTA Threat Model Framework Practice](https://github.com/mrjones2920/PASTA)
  
 
 <h2>Education</h2>
