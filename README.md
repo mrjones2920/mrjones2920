@@ -47,7 +47,7 @@
    - [ PASTA Threat Model Framework Practice](https://github.com/mrjones2920/PASTA)
 
  - <b>Detection And Response Practice</b>
-     - [incident journal](https://github.com/mrjones2920/incident-handler-journal)
+     - [Incident Journal](https://github.com/mrjones2920/incident-handler-journal)
  
 
 <h2>Education</h2>
