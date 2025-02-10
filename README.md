@@ -65,6 +65,7 @@
 - [Connect and Protect:Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/UTAV8MHSBDA1)
 - [Tools Of The Trade: Linux and SQL](https://www.coursera.org/account/accomplishments/verify/PS02NGBMLUUP)
 - [Assets,Threats,And Vulnerabilities](https://www.coursera.org/account/accomplishments/certificate/3I4BLVVHYEAL)
+- [pre security](https://tryhackme.com/certificate/THM-9FBOXSFCSM)
 
 <h2>Skills</h2>
 
