@@ -48,7 +48,7 @@
 
  - <b>Detection And Response Practice</b>
      - [Incident Journal](https://github.com/mrjones2920/incident-handler-journal)
-     - [capture packet practices](https://github.com/mrjones2920/Capture-Packet)
+     - [capture packet practice](https://github.com/mrjones2920/Capture-Packet)
  
 
 <h2>Education</h2>
