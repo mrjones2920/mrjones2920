@@ -49,6 +49,7 @@
  - <b>Detection And Response Practice</b>
      - [Incident Journal](https://github.com/mrjones2920/incident-handler-journal)
      - [capture packet practice](https://github.com/mrjones2920/Capture-Packet)
+     - [Suricata Practice](https://github.com/mrjones2920/rules-with-Suricata)
  
 
 <h2>Education</h2>
