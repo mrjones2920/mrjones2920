@@ -47,7 +47,7 @@
    - [ PASTA Threat Model Framework Practice](https://github.com/mrjones2920/PASTA)
 
  - <b>Detection And Response Practice</b>
-     - [Incident Journal](https://github.com/mrjones2920/incident-handler-journal)
+     - [Incident Handler Journal](https://github.com/mrjones2920/incident-handler-journal)
      - [capture packet practice](https://github.com/mrjones2920/Capture-Packet)
      - [Suricata Practice](https://github.com/mrjones2920/rules-with-Suricata)
  
