@@ -50,6 +50,11 @@
      - [Incident Handler Journal](https://github.com/mrjones2920/incident-handler-journal)
      - [capture packet practice](https://github.com/mrjones2920/Capture-Packet)
      - [Suricata Practice](https://github.com/mrjones2920/rules-with-Suricata)
+  
+ - <b>Python</b>
+    - [Writing Python Code Practice](https://github.com/mrjones2920/writing-python-code)
+      
+  
  
 
 <h2>Education</h2>
