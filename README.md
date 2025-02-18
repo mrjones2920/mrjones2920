@@ -53,6 +53,7 @@
   
  - <b>Python</b>
     - [Writing Python Code Practice](https://github.com/mrjones2920/writing-python-code)
+    - [Python Variables Practice](https://github.com/mrjones2920/Assign-Python-variables)
       
   
  
