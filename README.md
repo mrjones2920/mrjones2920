@@ -55,6 +55,7 @@
     - [Writing Python Code Practice](https://github.com/mrjones2920/writing-python-code)
     - [Python Variables Practice](https://github.com/mrjones2920/Assign-Python-variables)
     - [Creating Conditional Statement Practice](https://github.com/mrjones2920/conditional-statement)
+    - [Creating Loops Practice](https://github.com/mrjones2920/Create-loops)
       
   
  
