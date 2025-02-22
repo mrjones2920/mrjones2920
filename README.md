@@ -56,7 +56,8 @@
     - [Python Variables Practice](https://github.com/mrjones2920/Assign-Python-variables)
     - [Creating Conditional Statement Practice](https://github.com/mrjones2920/conditional-statement)
     - [Creating Loops Practice](https://github.com/mrjones2920/Create-loops)
-    - [Define And Call A Function](https://github.com/mrjones2920/Define-and-Call-a-Function)
+    - [Define And Call A Function Practice](https://github.com/mrjones2920/Define-and-Call-a-Function)
+    - [Create More Functions Practice](https://github.com/mrjones2920/Create-more-functions)
       
   
  
