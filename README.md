@@ -58,6 +58,7 @@
     - [Creating Loops Practice](https://github.com/mrjones2920/Create-loops)
     - [Define And Call A Function Practice](https://github.com/mrjones2920/Define-and-Call-a-Function)
     - [Create More Functions Practice](https://github.com/mrjones2920/Create-more-functions)
+    - [Work With Strings In Python Practice](https://github.com/mrjones2920/-Work-with-strings-in-Python)
       
   
  
