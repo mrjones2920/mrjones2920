@@ -60,6 +60,7 @@
     - [Create More Functions Practice](https://github.com/mrjones2920/Create-more-functions)
     - [Work With Strings In Python Practice](https://github.com/mrjones2920/-Work-with-strings-in-Python)
     - [Develop An Algorithm Practice](https://github.com/mrjones2920/Develop-An-Algorithm)
+    - [Regular Expressions Practice](https://github.com/mrjones2920/Use-regular-expressions-to-find-patterns)
       
   
  
