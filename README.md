@@ -85,6 +85,7 @@
 - [Tools Of The Trade: Linux and SQL](https://www.coursera.org/account/accomplishments/verify/PS02NGBMLUUP)
 - [Assets,Threats,And Vulnerabilities](https://www.coursera.org/account/accomplishments/certificate/3I4BLVVHYEAL)
 - [Sound the Alarm:Detection and Response](https://www.coursera.org/account/accomplishments/verify/EJZ8TZUP3W00)
+- [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/verify/DEEMXEO02OZM)
 - [Pre-Security](https://tryhackme.com/certificate/THM-9FBOXSFCSM)
 
 <h2>Skills</h2>
