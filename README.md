@@ -63,6 +63,7 @@
     - [Regular Expressions Practice](https://github.com/mrjones2920/Use-regular-expressions-to-find-patterns)
     - [Import And Parse Text Files Practice](https://github.com/mrjones2920/Import-and-parse-a-text-file)
     - [Create Algoritm Practice](https://github.com/mrjones2920/Create-another-algorithm)
+    - [Update Python Algorithm Project](https://github.com/mrjones2920/Update-a-file-through-a-Python-algorithm)
       
   
  
