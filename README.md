@@ -61,6 +61,7 @@
     - [Work With Strings In Python Practice](https://github.com/mrjones2920/-Work-with-strings-in-Python)
     - [Develop An Algorithm Practice](https://github.com/mrjones2920/Develop-An-Algorithm)
     - [Regular Expressions Practice](https://github.com/mrjones2920/Use-regular-expressions-to-find-patterns)
+    - [Import And Parse Text Files Practice](https://github.com/mrjones2920/Import-and-parse-a-text-file)
       
   
  
