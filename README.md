@@ -64,6 +64,7 @@
     - [Import And Parse Text Files Practice](https://github.com/mrjones2920/Import-and-parse-a-text-file)
     - [Create Algoritm Practice](https://github.com/mrjones2920/Create-another-algorithm)
     - [Update Python Algorithm Project](https://github.com/mrjones2920/Update-a-file-through-a-Python-algorithm)
+    - [Debug Python Code Practice](https://github.com/mrjones2920/Debug-Python-Code)
       
   
  
