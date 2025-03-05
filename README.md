@@ -79,6 +79,7 @@
 
 <h2>📄Certifications</h2>
 
+- [Google Cybersecurity](https://www.coursera.org/account/accomplishments/professional-cert/H805R5SOTCEJ)
 - [Foundations Of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/6MDLRH4HYTF7)
 - [Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/TD6UB39JWULX)
 - [Connect and Protect:Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/UTAV8MHSBDA1)
