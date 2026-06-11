@@ -1,4 +1,4 @@
-<h1>Hi, I'm mike! <br/><a href="https://github.com/mrjones2920">Professional Programmer</a>, <a href="https://www.linkedin.com/in/micheal-jones2920/">Cybersecurity Professional</a>
+<h1>Hi, I'm mike! <br/><a href="https://github.com/mrjones2920">Professional Programmer</a>, <a href="https://www.linkedin.com/in/micheal-jones2027./">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -72,8 +72,7 @@
 <h2>Education</h2>
   
   - [Google Cybersecurity Professional](https://www.coursera.org/professional-certificates/google-cybersecurity#:~:text=Google%20Cybersecurity%20Professional%20Certificate), Coursera,10/2024
-  - [Introduction to Computer Science And Programming Using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)  MIT 12/2025
-  - [Introduction To C++](https://ocw.mit.edu/courses/6-096-introduction-to-c-january-iap-2011/)   MIT 1/2025
+  - [university of phoenix] associates degree in Cybersecurity 07/2025 to 05/2027
 
 
 
