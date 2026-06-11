@@ -1,4 +1,4 @@
-<h1>Hi, I'm mike! <br/><a href="https://github.com/mrjones2920">Professional Programmer</a>,<a href="https://www.linkedin.com/in/micheal-jones2027./">Cybersecurity Professional</a>
+<h1>Hi, I'm mike! <br/><a href="https://github.com/mrjones2920">Professional Programmer</a>,<a href="https://www.linkedin.com/in/micheal-jones2027/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -72,7 +72,7 @@
 <h2>Education</h2>
   
   - [Google Cybersecurity Professional](https://www.coursera.org/professional-certificates/google-cybersecurity#:~:text=Google%20Cybersecurity%20Professional%20Certificate), Coursera,10/2024
-  - [university of phoenix] associates degree in Cybersecurity 07/2025 to 05/2027
+  - [University Of Phoenix] Associates Degree In Cybersecurity 07/2025 to 05/2027
 
 
 
