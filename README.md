@@ -1,4 +1,4 @@
-<h1>Hi, I'm mike! <br/><a href="https://github.com/mrjones2920">Professional Programmer</a>, <a href="https://www.linkedin.com/in/micheal-jones2027./">Cybersecurity Professional</a>
+<h1>Hi, I'm mike! <br/><a href="https://github.com/mrjones2920">Professional Programmer</a>,<a href="https://www.linkedin.com/in/micheal-jones2027./">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
